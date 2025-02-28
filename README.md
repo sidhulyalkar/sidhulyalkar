@@ -24,7 +24,7 @@ I'm a passionate developer with a knack for building elegant solutions and explo
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sidhulyalkar.sidhulyalkar)
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=sidhulyalkar)](https://wakatime.com/)
+<!-- [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=sidhulyalkar)](https://wakatime.com/) -->
 
 ## 🔥 GitHub Streak
 
