@@ -2,11 +2,12 @@
 
 # Hi there, I'm Sid! 👋
 
-I'm a passionate developer with a knack for building elegant solutions and exploring new technologies. Welcome to my GitHub profile!
+I'm a passionate developer with a knack for building elegant solutions and exploring new technologies. My background in neuroscience and computational neuroscience fuels my analytical approach, blending biological insights with innovative tech. I bring expertise in database design and cloud implementation, along with hands-on experience in machine learning (ML), deep learning (DL), and data visualization. Welcome to my GitHub profile!
+
 
 ## 🔥 My Achievements & Interests
 
-- 💻 **Software Development:** Experienced in creating robust applications.
+- 💻 **Software Development:** Experienced with Machine Learning, Deep Learning and developing robust applications.
 - 🎓 **Lifelong Learner:** Continuously expanding my skills through projects and courses.
 - 🚀 **Open Source Enthusiast:** Actively contributing to open source projects.
 - 📈 **Data Visualization:** I love turning data into intuitive graphs and insights.
