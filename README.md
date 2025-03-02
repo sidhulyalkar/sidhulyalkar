@@ -14,7 +14,7 @@ I'm a passionate developer with a knack for building elegant solutions and explo
 
 ## 📊 My GitHub Stats
 
-![Sid Hulyalkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhulyalkar&show_icons=true&theme=tokyonight)
+![Sid Hulyalkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhulyalkar&show_icons=true&theme=ambient_gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhulyalkar&layout=donut)](https://github.com/sidhulyalkar/github-readme-stats)
 
