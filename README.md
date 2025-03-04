@@ -14,11 +14,13 @@ I'm a passionate developer with a knack for building elegant solutions and explo
 
 ## 📊 My GitHub Stats
 
-![Sid Hulyalkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhulyalkar&show_icons=true&theme=codeSTACKr)
+![Sid Hulyalkar's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidhulyalkar&theme=ocean_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhulyalkar&layout=donut)](https://github.com/sidhulyalkar/github-readme-stats)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sidhulyalkar&theme=github)](https://github.com/sidhulyalkar)
+[![GitHub Activity Graph](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidhulyalkar&theme=ocean_dark)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidhulyalkar&theme=ocean_dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sidhulyalkar&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
