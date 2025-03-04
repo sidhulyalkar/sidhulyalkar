@@ -18,8 +18,6 @@ I'm a passionate developer with a knack for building elegant solutions and explo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhulyalkar&layout=donut)](https://github.com/sidhulyalkar/github-readme-stats&theme=ocean_dark)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sidhulyalkar&theme=github)](https://github.com/sidhulyalkar)
-
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidhulyalkar&theme=ocean_dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sidhulyalkar&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
