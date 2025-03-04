@@ -16,7 +16,7 @@ I'm a passionate developer with a knack for building elegant solutions and explo
 
 ![Sid Hulyalkar's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidhulyalkar&theme=ocean_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhulyalkar&layout=donut&theme=ocean_dark)](https://github.com/sidhulyalkar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhulyalkar&layout=donut&theme=radical)](https://github.com/sidhulyalkar/github-readme-stats)
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidhulyalkar&theme=ocean_dark)
 
