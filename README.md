@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sid! 👋
 
-I'm a passionate developer with a knack for building elegant solutions and exploring new technologies. My background in neuroscience and computational neuroscience fuels my analytical approach, blending biological insights with innovative tech. I bring expertise in database design and cloud implementation, along with hands-on experience in machine learning (ML), deep learning (DL), and data visualization. Welcome to my GitHub profile!
+I'm a passionate developer with a knack for building elegant solutions and exploring new technologies. My background in neuroscience and computational neuroscience fuels my analytical approach, blending biological insights with innovative tech. I bring expertise in database design and cloud implementation, along with hands-on experience in machine learning (ML), deep learning (DL), and data visualization. Welcome to my GitHub profile! Learn more about me at sidhulyalkar.com
 
 
 ## 🔥 My Achievements & Interests
