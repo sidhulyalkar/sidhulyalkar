@@ -29,15 +29,15 @@ Sabatini DataJoint Pipeline
 
 A multimodal cloud-based neuroscience pipeline for electrophysiology, calcium imaging, fiber photometry, behavior, and pose estimation.
 
-Neuroscience Data Engineering
+- Neuroscience Data Engineering
 
 Built and maintained large-scale scientific data workflows for labs working with terabyte-scale experimental datasets across multiple modalities.
 
-Publications
+- Publications
 
 Check out my [Google Scholar](https://scholar.google.com/citations?user=nuvjyyMAAAAJ&hl=en) for research from UCSD NEATLabs and related work in computational neuroscience.
 
-Personal Website
+- Personal Website
 
 My site, [sidhulyalkar.com](sidhulyalkar.com), is an interactive neural-inspired portfolio featuring my projects, photography, papers, code, and visual experiments.
 
@@ -45,11 +45,11 @@ My site, [sidhulyalkar.com](sidhulyalkar.com), is an interactive neural-inspired
 
 ![Sid Hulyalkar's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidhulyalkar&theme=ocean_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhulyalkar&layout=donut&theme=ocean_dark)](https://github.com/sidhulyalkar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhulyalkar&layout=donut&theme=ocean_dark)](https://github.com/sidhulyalkar/github-readme-stats)
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidhulyalkar&theme=ocean_dark)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sidhulyalkar&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sidhulyalkar&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sidhulyalkar.sidhulyalkar)
 
