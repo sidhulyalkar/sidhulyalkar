@@ -45,11 +45,11 @@ My site, [sidhulyalkar.com](sidhulyalkar.com), is an interactive neural-inspired
 
 ![Sid Hulyalkar's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidhulyalkar&theme=ocean_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhulyalkar&layout=donut&theme=ocean_dark)](https://github.com/sidhulyalkar/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhulyalkar&layout=donut&theme=ocean_dark)](https://github.com/sidhulyalkar/github-readme-stats)
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidhulyalkar&theme=ocean_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sidhulyalkar&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=sidhulyalkar&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sidhulyalkar.sidhulyalkar)
 
@@ -59,12 +59,6 @@ My site, [sidhulyalkar.com](sidhulyalkar.com), is an interactive neural-inspired
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidhulyalkar&theme=radical)](https://github.com/sidhulyalkar)
 
-
-## 🌟 My Achievements & Projects
-
-- **Featured Project:** [Sabatini-Datajoint Pipeline](https://github.com/bernardosabatinilab/sabatini-datajoint-pipeline) – Multimodal Cloud Based Processing of Electrophysiology, Calcium Imaging, Fiber Photometery, Behavior, and Pose Estimation.
-- **Certifications & Awards:** Awarded UCSD Chancellors Research Scholarship in 2019
-- **Publications:** Check out my [Papers](https://scholar.google.com/citations?user=nuvjyyMAAAAJ&hl=en) to see my work at UCSD's NEATlabs!
 
 ## 📫 Let's Connect
 
